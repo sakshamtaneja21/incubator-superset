@@ -60,13 +60,13 @@ Superset provides:
 * An extensible, high granularity security model allowing intricate rules
     on who can access which product features and datasets.
     Integration with major
-    authentication backends (database, OpenID, LDAP, OAuth, REMOTE_USER, ...)
-* A lightweight semantic layer, allowing to control how data sources are
-    exposed to the user by defining dimensions and metrics
-* Out of the box support for most SQL-speaking databases
-* Deep integration with Druid allows for Superset to stay blazing fast while
-    slicing and dicing large, realtime datasets
-* Fast loading dashboards with configurable caching
+    authentication backends (database, OpenID, LDAP, OAuth, REMOTE_USER, ......)
+* A lightweight semantic layer, allowing to control how data sources are.
+    exposed to the user by defining dimensions and metrics.
+* Out of the box support for most SQL-speaking databases.
+* Deep integration with Druid allows for Superset to stay blazing fast while.
+    slicing and dicing large, realtime datasets.
+* Fast loading dashboards with configurable caching.
 
 
 Database Support
